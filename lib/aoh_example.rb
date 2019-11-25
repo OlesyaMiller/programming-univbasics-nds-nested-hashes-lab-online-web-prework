@@ -10,10 +10,8 @@ def assembled_aoh
   # Build an array that contains (or, "nests") the constants into a single
   # Array. Ruby constants are denoted by ALL_CAPS
   
-  infinite_jest = [
-    
-    ]
-  new_array
+  infinite_jest = [DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G]
+  infinite_jest
 end
 
 def literal_aoh
